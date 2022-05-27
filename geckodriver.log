@@ -1,0 +1,745 @@
+1645273392639	geckodriver	INFO	Listening on 127.0.0.1:2345
+1645273395703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2346" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileZB7tKK"
+1645273396571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileZB7tKK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2346/devtools/browser/d627bd52-c5e2-46d8-8353-4777d73809d0
+1645273398882	Marionette	INFO	Listening on port 2352
+1645273399373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645273415678	Marionette	INFO	Stopped listening on port 2352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645273420845	geckodriver	INFO	Listening on 127.0.0.1:2379
+1645273423934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2380" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileT08uWV"
+1645273424239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileT08uWV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2380/devtools/browser/a7379bbe-1b4c-4c22-a142-580c99b90579
+1645273425837	Marionette	INFO	Listening on port 2386
+1645273425981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645273450429	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645273460581	Marionette	INFO	Stopped listening on port 2386
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645273482839	geckodriver	INFO	Listening on 127.0.0.1:2526
+1645273485939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2527" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilevXQ6kz"
+1645273486213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilevXQ6kz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2527/devtools/browser/3c851b7c-37e0-4ae3-a3ee-177aa5fa285e
+1645273487784	Marionette	INFO	Listening on port 2534
+1645273487996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1, line 1: SyntaxError: unexpected token: ':'
+1645273546433	Marionette	INFO	Stopped listening on port 2534
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645273581085	geckodriver	INFO	Listening on 127.0.0.1:2734
+1645273584173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2735" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileBUZOKq"
+1645273584486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileBUZOKq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2735/devtools/browser/6f2392eb-2341-4638-8b60-59ee88a01db3
+1645273586260	Marionette	INFO	Listening on port 2741
+1645273586333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1, line 1: SyntaxError: unexpected token: ':'
+1645273662651	geckodriver	INFO	Listening on 127.0.0.1:2919
+1645273665726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2920" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilepj11hM"
+1645273666040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilepj11hM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2920/devtools/browser/dd58f68d-7227-4494-912b-72708f6d4af3
+1645273667780	Marionette	INFO	Listening on port 2927
+1645273667870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1645273745954	geckodriver	INFO	Listening on 127.0.0.1:3094
+1645273749025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3095" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileMiDi9O"
+1645273749325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileMiDi9O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3095/devtools/browser/833caad8-fe1f-47ea-9114-86ffdf8fed85
+1645273750919	Marionette	INFO	Listening on port 3101
+1645273751070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1645274013280	Marionette	INFO	Stopped listening on port 3101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645282515600	geckodriver	INFO	Listening on 127.0.0.1:6822
+1645282518677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6823" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileshlBFp"
+1645282519626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileshlBFp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6823/devtools/browser/8d6c9fe3-160c-46a9-afa3-be93e609814c
+1645282521820	Marionette	INFO	Listening on port 6828
+1645282521872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645282647000	geckodriver	INFO	Listening on 127.0.0.1:6943
+1645282650082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6944" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileg3cuwS"
+1645282650395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileg3cuwS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6944/devtools/browser/f0e78729-8fe7-4270-a051-450074962e6f
+1645282652171	Marionette	INFO	Listening on port 6949
+1645282652233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1, line 1: SyntaxError: unexpected token: ':'
+1645282805739	geckodriver	INFO	Listening on 127.0.0.1:7132
+1645282808804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7133" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilez6oru1"
+1645282809331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilez6oru1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7133/devtools/browser/be0793ba-3f65-457e-b380-9f98c18fbbb5
+1645282811650	Marionette	INFO	Listening on port 7139
+1645282811979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645282847505	geckodriver	INFO	Listening on 127.0.0.1:7242
+1645282850605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7243" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilehP2Blw"
+1645282851142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilehP2Blw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7243/devtools/browser/0d5ef4f4-c7f5-4070-9061-ad3a7687ba29
+1645282854013	Marionette	INFO	Listening on port 7248
+1645282854324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645282862828	Marionette	INFO	Stopped listening on port 7248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645292869820	geckodriver	INFO	Listening on 127.0.0.1:8164
+1645292872901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8165" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileJkx9MY"
+1645292873797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileJkx9MY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8165/devtools/browser/6b5570b4-97d4-42dc-a9ce-55634721aad6
+1645292876571	Marionette	INFO	Listening on port 8172
+1645292876627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645292940282	geckodriver	INFO	Listening on 127.0.0.1:8282
+1645292943370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8283" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileCA95aU"
+1645292943634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileCA95aU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8283/devtools/browser/8e0ceb78-d50c-48be-9699-e1bc3cdb9ca0
+1645292945291	Marionette	INFO	Listening on port 8288
+1645292945422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645294622707	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645294634210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645294645598	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645294660633	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645294672146	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645294711297	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645294812931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645294835824	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645294927268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645295064431	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=20614939700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=20614939700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1645295180007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645295522601	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645295757836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645296227951	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645296232397	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296377749	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296463039	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645296645920	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296689818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296702199	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296715876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645296761683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296859917	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296905563	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645296937845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645297382322	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645297474554	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645297488466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645297489467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645297511856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645297515108	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645297627241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298297479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298355559	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645298397774	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645298441157	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298721994	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298778060	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645298810315	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298856672	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645298857565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645298869314	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298953389	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645298991090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645299164879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645299177323	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645299308552	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645299430694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645299431778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645299498338	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645299617715	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645299618672	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645299693565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645299813815	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645300064644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645300261669	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645300359026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request failed with status code 400
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: TypeError: i.left is undefined
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645300540692	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645300754571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645300910771	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645301484538	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645301583340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645301638092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645302036699	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645302200766	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645302488863	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645302542466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645302566404	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645302599031	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645302620952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request failed with status code 400
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: TypeError: i.left is undefined
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645302932881	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645303000514	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645303032912	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645303105194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645303462816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645303506758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645303507809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=206140e0e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=206140e0e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1645303768633	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645303867133	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=206126b8b00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=206126b8b00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1645303878689	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645304063135	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=2060c02c700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 1376, MediaDecoderStateMachine #1] WARNING: Decoder=2060c02c700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645304579022	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645304675827	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645304740571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645304762390	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645304884881	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645305081218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645305226965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645305293616	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://weibo.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1645426222753	Marionette	INFO	Stopped listening on port 8288
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645428148341	geckodriver	INFO	Listening on 127.0.0.1:7754
+1645428151441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7755" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilewvsZ65"
+1645428152026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilewvsZ65\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7755/devtools/browser/c5699eb8-c2f4-40e1-aa93-0ecb4fed68ff
+1645428154145	Marionette	INFO	Listening on port 7760
+1645428154620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645428156542	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428157314	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428164458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428226783	Marionette	INFO	Stopped listening on port 7760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645428276894	geckodriver	INFO	Listening on 127.0.0.1:7875
+1645428279981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7876" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilexWlInn"
+1645428280313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilexWlInn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7876/devtools/browser/e0a44f99-f223-4fce-95ae-7fa3dc69d7b9
+1645428281893	Marionette	INFO	Listening on port 7881
+1645428282031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645428284543	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428285214	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428290959	Marionette	INFO	Stopped listening on port 7881
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645428293542	geckodriver	INFO	Listening on 127.0.0.1:7969
+1645428296622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7970" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilet7DCpi"
+1645428296945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilet7DCpi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7970/devtools/browser/3cebf699-991c-4322-8399-001f6aec59b7
+1645428298541	Marionette	INFO	Listening on port 7975
+1645428298684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645428300253	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428301020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428302707	Marionette	INFO	Stopped listening on port 7975
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645428318841	geckodriver	INFO	Listening on 127.0.0.1:8054
+1645428321912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8055" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileBS2ZyD"
+1645428322188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileBS2ZyD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8055/devtools/browser/3226c3f0-d363-4647-9f08-49901735a9d7
+1645428323834	Marionette	INFO	Listening on port 8060
+1645428323969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645428326235	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428327940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428343139	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645428350441	Marionette	INFO	Stopped listening on port 8060
+1645429098510	geckodriver	INFO	Listening on 127.0.0.1:14268
+1645429101578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14269" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileipVkbu"
+1645429101875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileipVkbu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14269/devtools/browser/15ab7a94-f39c-4272-a420-ce2a95a5da63
+1645429103562	Marionette	INFO	Listening on port 14274
+1645429103634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645429105714	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429106459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429113933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429115365	Marionette	INFO	Stopped listening on port 14274
+1645429146437	geckodriver	INFO	Listening on 127.0.0.1:14371
+1645429149525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14372" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileCwoPWS"
+1645429149813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileCwoPWS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14372/devtools/browser/cb559661-caf0-43fb-9257-edf130b2bbbe
+1645429151575	Marionette	INFO	Listening on port 14377
+1645429151682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645429153808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429154519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429163541	Marionette	INFO	Stopped listening on port 14377
+1645429190949	geckodriver	INFO	Listening on 127.0.0.1:14475
+1645429194026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14476" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileUsW3WH"
+1645429194306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileUsW3WH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14476/devtools/browser/f348184e-89ee-45a8-bb13-57308faa00d2
+1645429195904	Marionette	INFO	Listening on port 14481
+1645429196074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645429197963	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429198832	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429202314	Marionette	INFO	Stopped listening on port 14481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645429205279	geckodriver	INFO	Listening on 127.0.0.1:14558
+1645429208352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14559" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileNUM7Cr"
+1645429208644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileNUM7Cr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14559/devtools/browser/5812830f-94d5-4be5-8a07-adf7921fb924
+1645429210343	Marionette	INFO	Listening on port 14564
+1645429210416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645429212216	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429213045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429214525	Marionette	INFO	Stopped listening on port 14564
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645429266402	geckodriver	INFO	Listening on 127.0.0.1:14647
+1645429269479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14648" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileQQBmO9"
+1645429269769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileQQBmO9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14648/devtools/browser/fc28a207-a3ea-4224-bde9-bbaa473ff691
+1645429271439	Marionette	INFO	Listening on port 14653
+1645429271538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645429273380	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429274284	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645429277842	Marionette	INFO	Stopped listening on port 14653
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645429283246	geckodriver	INFO	Listening on 127.0.0.1:14741
+1645429286340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14742" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilehlxr2u"
+1645429286623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilehlxr2u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14742/devtools/browser/c3003305-9360-446b-a20a-827e48b58199
+1645429288222	Marionette	INFO	Listening on port 14747
+1645429288401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1, line 1: SyntaxError: unexpected token: ':'
+1645429989843	Marionette	INFO	Stopped listening on port 14747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ools listening on ws://localhost:14940/devtools/browser/0c9cd8c3-b8d3-4f6d-9e47-f0ed41abb6aa
+1645429873824	Marionette	INFO	Listening on port 14945
+1645429873913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11956, MediaDecoderStateMachine #1] WARNING: 227440ab200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11956, MediaDecoderStateMachine #1] WARNING: 2274f65f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645429910568	Marionette	INFO	Stopped listening on port 14945
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645430149819	geckodriver	INFO	Listening on 127.0.0.1:1177
+1645430152912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1178" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileoVmr7l"
+1645430153203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileoVmr7l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1178/devtools/browser/dbd35a18-8fe9-4599-8825-188f41a7afab
+1645430154957	Marionette	INFO	Listening on port 1183
+1645430155058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1, line 1: SyntaxError: unexpected token: ':'
+1645430304128	geckodriver	INFO	Listening on 127.0.0.1:1303
+1645430307209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1304" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileY63PAk"
+1645430307559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileY63PAk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1304/devtools/browser/7a42f45b-d793-4363-ae83-691b0ad18402
+1645430309215	Marionette	INFO	Listening on port 1311
+1645430309272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645430323355	Marionette	INFO	Stopped listening on port 1311
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645430376430	geckodriver	INFO	Listening on 127.0.0.1:1408
+1645430379514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1409" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileeSrkRA"
+1645430379815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileeSrkRA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1409/devtools/browser/3cc23e63-0368-40d4-86ef-b5e7c4d8521f
+1645430381423	Marionette	INFO	Listening on port 1414
+1645430381583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645430447704	Marionette	INFO	Stopped listening on port 1414
+1645430541546	geckodriver	INFO	Listening on 127.0.0.1:1548
+1645430544587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1549" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilebBdl35"
+1645430544908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilebBdl35\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1549/devtools/browser/321a0912-fc2d-4c38-b0f4-72928e3f0204
+1645430546569	Marionette	INFO	Listening on port 1554
+1645430546654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645430560939	Marionette	INFO	Stopped listening on port 1554
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645430759965	geckodriver	INFO	Listening on 127.0.0.1:8265
+1645430763043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8266" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilex8bPzG"
+1645430763309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilex8bPzG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8266/devtools/browser/f01dcf95-ffe7-4d67-9882-8b642f123f8b
+1645430764902	Marionette	INFO	Listening on port 8271
+1645430765102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645430789412	Marionette	INFO	Stopped listening on port 8271
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645430888357	geckodriver	INFO	Listening on 127.0.0.1:8393
+1645430891452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8394" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilewiTg1t"
+1645430891722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilewiTg1t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8394/devtools/browser/81d0a438-211d-49e3-9609-108493b080ff
+1645430893483	Marionette	INFO	Listening on port 8399
+1645430893511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645430930259	Marionette	INFO	Stopped listening on port 8399
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645431169813	geckodriver	INFO	Listening on 127.0.0.1:8547
+1645431172906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8548" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileDi9OOJ"
+1645431173170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileDi9OOJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8548/devtools/browser/4181b40e-6fcc-4d2d-a4a9-216a87df034b
+1645431174829	Marionette	INFO	Listening on port 8553
+1645431174955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645431189480	Marionette	INFO	Stopped listening on port 8553
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645432060874	geckodriver	INFO	Listening on 127.0.0.1:8891
+1645432063953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8892" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileuAtBMa"
+1645432064962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileuAtBMa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8892/devtools/browser/718f9f36-e74a-417e-873e-f7b3ae5bdaa1
+1645432067705	Marionette	INFO	Listening on port 8897
+1645432068175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645432084194	Marionette	INFO	Stopped listening on port 8897
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645432126646	geckodriver	INFO	Listening on 127.0.0.1:9012
+1645432129732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9013" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileqLcbiD"
+1645432130017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileqLcbiD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9013/devtools/browser/3aeb101a-e0a8-48e7-b2f0-d7e79a6fde55
+1645432131727	Marionette	INFO	Listening on port 9018
+1645432131808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645432146513	Marionette	INFO	Stopped listening on port 9018
+1645432164858	geckodriver	INFO	Listening on 127.0.0.1:9113
+1645432167929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9114" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileRxj7Cc"
+1645432168230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileRxj7Cc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9114/devtools/browser/4c097a4f-0937-4973-913f-19a0c521c7ed
+1645432169869	Marionette	INFO	Listening on port 9119
+1645432169991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+1645432217708	Marionette	INFO	Stopped listening on port 9119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645432230362	geckodriver	INFO	Listening on 127.0.0.1:9241
+1645432233448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9242" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileTdBpvc"
+1645432233769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileTdBpvc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9242/devtools/browser/afd9268c-bae3-42a9-8562-0c98a4e0550e
+1645432235566	Marionette	INFO	Listening on port 9248
+1645432235613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645432321915	Marionette	INFO	Stopped listening on port 9248
+1645433343000	geckodriver	INFO	Listening on 127.0.0.1:9933
+1645433346076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9934" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilejgUtdV"
+1645433346379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilejgUtdV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9934/devtools/browser/a7b807ca-0196-43a3-bbf4-07e17aed5be7
+1645433348258	Marionette	INFO	Listening on port 9939
+1645433348724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.7ea21565.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645433695073	Marionette	INFO	Stopped listening on port 9939
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645599637471	geckodriver	INFO	Listening on 127.0.0.1:1669
+1645599640548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1670" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilef4U4tw"
+1645599641469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilef4U4tw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1670/devtools/browser/1031107f-c5d3-4f45-8e59-fa10df8efed3
+1645599643865	Marionette	INFO	Listening on port 1675
+1645599644229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645599646591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645599647574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645599673885	geckodriver	INFO	Listening on 127.0.0.1:1811
+1645599676957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1812" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilef7I47N"
+1645599677310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilef7I47N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1812/devtools/browser/06222631-fed0-4dac-8437-7076b42161a8
+1645599679047	Marionette	INFO	Listening on port 1817
+1645599679135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.weibo.cn/sso/crossdomain?action=login&savestate=1, line 1: SyntaxError: unexpected token: ':'
+1645600162437	geckodriver	INFO	Listening on 127.0.0.1:2052
+1645600165490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2053" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofiledEZuly"
+1645600165842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofiledEZuly\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2053/devtools/browser/8b1a616e-e241-4303-873e-e57b8a409762
+1645600167553	Marionette	INFO	Listening on port 2058
+1645600167631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.3d518098.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.3d518098.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+1645600977316	Marionette	INFO	Stopped listening on port 2058
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645605174871	geckodriver	INFO	Listening on 127.0.0.1:4159
+1645605177966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4160" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileA1ESUq"
+1645605178327	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileA1ESUq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4160/devtools/browser/dcba3a70-1396-4ee1-9480-51897b1f76d1
+1645605180011	Marionette	INFO	Listening on port 4165
+1645605180131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645605691507	Marionette	INFO	Stopped listening on port 4165
+[Parent 11956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645614003256	geckodriver	INFO	Listening on 127.0.0.1:13615
+1645614006338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13616" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilevuOuPU"
+1645614007168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilevuOuPU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13616/devtools/browser/6c3afad5-a937-4890-a210-d3750cb6097c
+1645614009419	Marionette	INFO	Listening on port 13621
+1645614009517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645614013100	geckodriver	INFO	Listening on 127.0.0.1:13646
+1645614016200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13647" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileML6eze"
+1645614016481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileML6eze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13647/devtools/browser/89333f5f-ac33-41fb-ab49-c39529a47a67
+1645614018139	Marionette	INFO	Listening on port 13652
+1645614018252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.d20053ff.js, line 1: Error: Error: Request aborted
+1645614618625	Marionette	INFO	Stopped listening on port 13652
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645614759530	geckodriver	INFO	Listening on 127.0.0.1:13903
+1645614762614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13904" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileJZCAVP"
+1645614762910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofileJZCAVP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13904/devtools/browser/a7717081-6667-4570-9440-85af7a147d70
+1645614764595	Marionette	INFO	Listening on port 13909
+1645614764654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645615219127	Marionette	INFO	Stopped listening on port 13909
+[Parent 13716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645615439870	geckodriver	INFO	Listening on 127.0.0.1:6035
+1645615442937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6036" "-no-remote" "-profile" "C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilext9FLj"
+1645615443248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\demon\\AppData\\Local\\Temp\\rust_mozprofilext9FLj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6036/devtools/browser/6c08a9df-e6df-44d7-8cdb-d524b225dd5d
+1645615444893	Marionette	INFO	Listening on port 6049
+1645615444982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.d20053ff.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.d20053ff.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/app.d20053ff.js, line 1: Error: Error: Request aborted
+JavaScript error: https://h5.sinaimg.cn/m/weibo-pro/js/3rdparty.89d5f1eb.js, line 43: Error: Request aborted
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:132:26
+
+1645616069071	Marionette	INFO	Stopped listening on port 6049
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
